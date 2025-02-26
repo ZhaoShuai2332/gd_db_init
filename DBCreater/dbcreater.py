@@ -57,7 +57,7 @@ def insertRandomWishlist():
 
 
 if __name__ == '__main__':
-    insertUser()
+    # insertUser()
     insertFood()
     insertRandomComments()
     insertRandomWishlist()
