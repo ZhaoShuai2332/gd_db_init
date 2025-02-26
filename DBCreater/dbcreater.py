@@ -56,9 +56,9 @@ def insertRandomWishlist():
         dao.insert_wishlist(foodID, userID)
 
 
-if __name__ == '__main__':
-    # insertUser()
-    insertFood()
-    insertRandomComments()
-    insertRandomWishlist()
+# if __name__ == '__main__':
+#     insertUser()
+#     insertFood()
+#     insertRandomComments()
+#     insertRandomWishlist()
 
